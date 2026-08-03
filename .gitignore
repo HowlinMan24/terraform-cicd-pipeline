@@ -13,3 +13,4 @@ terraform.rc
 !example.tfvars
 plan_output.txt
 tfplan
+modules/*/.terraform.lock.hcl
