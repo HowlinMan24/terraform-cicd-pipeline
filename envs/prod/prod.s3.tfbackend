@@ -1,0 +1,5 @@
+bucket         = "REPLACE_WITH_YOUR_BUCKET_NAME"
+key            = "cicd-pipeline/prod/state.tfstate"
+region         = "eu-central-1"
+dynamodb_table = "terraform-locks"
+encrypt        = true
